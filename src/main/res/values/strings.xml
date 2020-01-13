@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LobstAR</string>
+    <string name="explore_menu">Explore Menu</string>
+    <string name="dialog_camera_permission_title">Access camera</string>
+    <string name="dialog_camera_permission_message">Would you like to access the camera?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="request_camera_permission_title">Access camera</string>
+    <string name="request_camera_permission_message">Access the camera?</string>
+    <string name="request_camera_permission_refused">Access refused</string>
+    <string name="request_camera_permission_failed">The access to the camera is required for this operation.</string>
+</resources>

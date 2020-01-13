@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969376159182",
+    "firebase_url": "https://lobstar-d76d1.firebaseio.com",
+    "project_id": "lobstar-d76d1",
+    "storage_bucket": "lobstar-d76d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969376159182:android:75f0548d21d60e6753c79f",
+        "android_client_info": {
+          "package_name": "com.nicoladaniello.lobstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969376159182-pvst81ur69uo70flsr4ntt866lkjoor8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHfPqWxn1NW3OKiULCcELK429v6-q2azc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969376159182-pvst81ur69uo70flsr4ntt866lkjoor8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
